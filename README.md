@@ -1,2 +1,2 @@
 # NeuralBook
-Kaggle Snippets
+Usefull Snippets DS/ML
