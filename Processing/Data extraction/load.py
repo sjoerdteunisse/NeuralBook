@@ -10,5 +10,6 @@ def load_data_csv(path):
 
     print('nUni', df.nunique())
     print('nNull', df.isnull().sum())
+
     return data
 
